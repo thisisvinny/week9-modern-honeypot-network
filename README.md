@@ -14,23 +14,23 @@
 
 ## Summary of Data Collected
 
-**Attacks in the last 24 hours**: 1,068
+**Attacks in the last 24 hours**: 1,280
 
 **Number of malware samples**: 0
 
 **TOP 5 Attacker IPs**:
 * 100.12.208.240 (1,007 attacks)
-* 66.181.170.12 (4 attacks)
-* 144.202.81.254 (4 attacks)
-* 68.183.62.77 (3 attacks)
-* 104.248.6.137 (3 attacks)
+* 62.210.141.119 (18 attacks)
+* 144.202.81.254 (17 attacks)
+* 104.248.6.137 (12 attacks)
+* 162.243.160.49 (11 attacks)
 
 **TOP 5 Attacked ports**:
-* 8088 (32 times)
-* 5060 (6 times)
+* 8088 (140 times)
+* 5060 (25 times)
+* 23 (22 times)
+* 2323 (7 times)
 * 445 (4 times)
-* 49175 (3 times)
-* 49155 (3 times)
 
 
 ## Unresolved Questions
