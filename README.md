@@ -2,16 +2,14 @@
 
 ## Honeypots Deployed
 
-Ubuntu - Dionaea with HTTP
+* Ubuntu - Dionaea with HTTP
 
 
 ## Issues Encountered
 
-No credits for Google Cloud Platform.
-
-Could not load the external IP in my browser. Had to enable HTTP/HTTPS traffic in Google Cloud Platform console.
-
-Permission denied when trying to export data collected from the honeypot.
+* No credits for Google Cloud Platform.
+* Could not load the external IP in my browser. Had to enable HTTP/HTTPS traffic in Google Cloud Platform console.
+* Permission denied when trying to export data collected from the honeypot.
 
 
 ## Summary of Data Collected
