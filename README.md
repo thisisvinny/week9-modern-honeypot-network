@@ -15,6 +15,7 @@
 ## Summary of Data Collected
 
 **Attacks in the last 24 hours**: 1,068
+**Number of malware samples**: 0
 
 **TOP 5 Attacker IPs**:
 * 100.12.208.240 (1,007 attacks)
